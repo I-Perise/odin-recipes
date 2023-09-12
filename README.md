@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to create a website containing recipes using what I have learnt thus far with the Odin Project. This project is a demonstration of my knowledge of html, git commands, github, and using the Linux OS terminal.
